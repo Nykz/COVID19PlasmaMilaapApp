@@ -1,7 +1,7 @@
 # COVID19PlasmaMilaapApp
 COVID-19 Plasma Milaap App - Part I
 
-Watch the Full Series on YouTube at 
+Watch the Full Playlist on YouTube at https://www.youtube.com/playlist?list=PLixvNT19uDK6ht4J3AONPZ6AbrPseFVmp
 
 <img src="https://github.com/Nykz/COVID19PlasmaMilaapApp/blob/main/screenshots/THUMBNAIL.png" width="800" height="400" />
 
